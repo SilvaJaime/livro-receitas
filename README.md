@@ -3,3 +3,4 @@
 Seja bem vindo ao livro de receitas :clap:
 
 - Strogonoff de frango
+- Abobrinha recheada
